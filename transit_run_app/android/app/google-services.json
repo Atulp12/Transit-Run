@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119398053959",
+    "project_id": "transitrun-c3359",
+    "storage_bucket": "transitrun-c3359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119398053959:android:6e37ffcd624226fc301962",
+        "android_client_info": {
+          "package_name": "com.example.transit_run_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119398053959-mkmvll3qjbj53sc6fkreudmj66j4rkf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcROTJyHKoUSVSH72XUWs56HuM5tVTSyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119398053959-mkmvll3qjbj53sc6fkreudmj66j4rkf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
